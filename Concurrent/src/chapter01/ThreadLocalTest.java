@@ -15,5 +15,6 @@ public class ThreadLocalTest {
     public static void main(String[] args) {
         System.out.println("haha");
         System.out.println("he");
+        System.out.println("third");
     }
 }
