@@ -11,4 +11,8 @@ public class ThreadLocalTest {
     static void print(String str){
         System.out.println(str + ":" + localVariable.get());
     }
+
+    public static void main(String[] args) {
+        System.out.println("haha");
+    }
 }
