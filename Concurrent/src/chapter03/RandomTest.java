@@ -1,3 +1,5 @@
+package chapter03;
+
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
